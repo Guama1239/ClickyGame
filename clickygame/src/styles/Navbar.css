@@ -1,0 +1,14 @@
+.navbar {
+  background: #5133a4;
+  height: 80px;
+  }
+
+.navbar a h1 {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+  margin: 25px;
+  line-height: 1;
+  font-weight: 900;
+  display: inline-block;
+}
