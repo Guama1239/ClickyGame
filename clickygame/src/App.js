@@ -16,7 +16,8 @@ class App extends Component {
   score=0
 
   removeFriend = id => {
-    this.setState({clicked:true});
+    console.log(friends[0]);
+    //this.setState({friends[0].clicked:true});
    //console.log(this.state.friends);
     // Filter this.state.friends for friends with an id not equal to the id being removed
    if(!this.state.friends.clicked){
