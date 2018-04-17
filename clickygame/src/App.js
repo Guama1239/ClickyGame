@@ -27,7 +27,7 @@ class App extends Component {
     //const friends = this.state.friends.filter(friend => friend.id !== id);
     // Set this.state.friends equal to the new friends array
     this.setState({ friends });
-    console.log(friends);
+    //console.log(friends);
   }
   };
 
